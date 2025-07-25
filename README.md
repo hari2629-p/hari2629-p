@@ -16,10 +16,10 @@
 
 ---
 
-### 🌱 Learning & Growing In
+### 🌱 Planing, Learning & Growing In
 
 - ⚛️ React  
-- 🔥 Firebase (Advanced Firestore, Auth)  
+- 🔥 Firebase (Basics)  
 - 🔗 Blockchain Basics  
 - 🐍 Python Frameworks (Flask, Tkinter)
 
