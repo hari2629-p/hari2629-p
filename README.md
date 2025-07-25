@@ -33,9 +33,8 @@
 ### 📫 Let's Connect
 
 - 📧 Email: hariatl10@gmail.com  
-- 💼 LinkedIn: [Add your LinkedIn link here]  
-- 🌐 Portfolio (optional): [If you have one]
-
+- 💼 LinkedIn: www.linkedin.com/in/harigovind-p-nair-89a4992b8  
+  
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari2629-p&show_icons=true&theme=tokyonight)  
