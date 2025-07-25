@@ -1,26 +1,31 @@
-### 👋 Hello, I'm Harigovind!
+<h2 align="center">Hi, I'm Harigovind — Tech Explorer | AI-ML Enthusiast | Builder 🧠⚙️</h2>
 
-🎓 B.Tech CSE (AI & ML) @ College of Engineering Attingal  
-📍 Kerala, India  
-🔭 Currently working on: `PAWLLOS` — a smart pet adoption platform using Firebase  
-🌱 Learning:  Firebase ,React, Blockchain basics, Python Frameworks (like Flask & Tkinter)  
-💡 Passionate about: Community-driven tech, social good, and hackathons  
+<p align="center">
+  I'm a Computer Science student specializing in AI & ML from Kerala, India 🇮🇳<br>
+  Passionate about building solutions with real-world impact — whether it's smart adoption systems, surveillance tools, or digital logging platforms.<br>
+  Always curious. Always building. Always learning.
+</p>
+
+---
+
+### 👨‍💻 Currently Focused On
+
+- 🐾 **PAWLLOS** – Firebase-powered pet adoption platform with user-pet matching  
+- 🎯 **INSPETTO** – AI-powered vehicle surveillance with OCR & LoRa  
+- ✍️ **SigNet** – Digital signature logger for club/event management  
 
 ---
 
-### 🚀 Featured Projects
+### 🌱 Learning & Growing In
 
-- 🐾 **[PAWLLOS](https://github.com/hari2629-p/pawllos)**  
-  A pet adoption web app using Firebase, featuring user-pet matching and survey-based recommendations.
-
-- 🎯 **[INSPETTO](https://github.com/hari2629-p/INSPETTO)**  
-  AI-powered vehicle surveillance system that detects number plate frauds using OCR and LoRa integration.
-
-- 🖊️ **[SigNet](https://github.com/hari2629-p/SigNet)**  
-  A lightweight and secure digital signature logging system designed for student clubs and events.
+- ⚛️ React  
+- 🔥 Firebase (Advanced Firestore, Auth)  
+- 🔗 Blockchain Basics  
+- 🐍 Python Frameworks (Flask, Tkinter)
 
 ---
-### 🛠️ Tech Stack & Tools
+
+### 🧰 Tech Stack & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -37,19 +42,22 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT" />
 </p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari2629-p&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari2629-p&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
 
 ### 📫 Let's Connect
 
 - 📧 Email: hariatl10@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/harigovind-p-nair-89a4992b8  
-  
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari2629-p&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari2629-p&layout=compact)  
-![Profile Views](https://komarev.com/ghpvc/?username=hari2629-p&color=blue)
+- 💼 LinkedIn: [www.linkedin.com/in/harigovind-p-nair-89a4992b8](https://www.linkedin.com/in/harigovind-p-nair-89a4992b8)
 
 ---
 
-⭐️ *“Build what matters. Code with purpose.”*
-
+⭐ *“Build what matters. Code with purpose.”*
