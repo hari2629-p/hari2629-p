@@ -3,7 +3,7 @@
 🎓 B.Tech CSE (AI & ML) @ College of Engineering Attingal  
 📍 Kerala, India  
 🔭 Currently working on: `PAWLLOS` — a smart pet adoption platform using Firebase  
-🌱 Learning: React, Firebase (Advanced), Blockchain basics, Python Frameworks (like Flask & Tkinter)  
+🌱 Learning:  Firebase ,React, Blockchain basics, Python Frameworks (like Flask & Tkinter)  
 💡 Passionate about: Community-driven tech, social good, and hackathons  
 
 ---
