@@ -16,6 +16,11 @@
 
 ---
 
+### Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="hari2629-p" />
+</p
+
 ### 🌱 Planing, Learning & Growing In
 
 - ⚛️ React  
@@ -46,9 +51,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari2629-p&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari2629-p&layout=compact&theme=tokyonight" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari2629-p&theme=dark&show_icons=true&locale=en&layout=compact" alt="hari2629-p" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari2629-p&theme=dark&show_icons=true&locale=en" alt="hari2629-p" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hari2629-p1&theme=dark&exclude_days=Sun%2CSat" alt="Motivation" />
 </p>
 
 ---
