@@ -75,7 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hari2629-p&theme=dark&show_icons=true&locale=en" alt="hari2629-p" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hari2629-p1&theme=dark&exclude_days=Sun%2CSat" alt="Motivation" />
+  <img src="https://streak-stats.demolab.com?user=hari2629-p&theme=dark&exclude_days=Sun%2CSat" alt="Motivation" />
 </p>
 
 ---
