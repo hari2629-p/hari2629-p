@@ -12,7 +12,8 @@
 
 - 🐾 **PAWLLOS** – Firebase-powered pet adoption platform with user-pet matching  
 - 🎯 **INSPETTO** – AI-powered vehicle surveillance with OCR & LoRa  
-- 🖼️ **ImgEase** – Digital signature logger for club/event management  
+- 🖼️ **ImgEase** – Image resizer with OSS integration
+  
 
 ---
 
