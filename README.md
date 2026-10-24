@@ -84,7 +84,7 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:hariatl10@gmail.com" target="_blank">
+  <a href="mailto:harigovindpnair26@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/harigovind-p-nair-89a4992b8" target="_blank">
